@@ -39,10 +39,6 @@ Clone o repositório em sua maquina:
 
 <br/><br/>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
-
-<br/>
-
 ---
 
 
